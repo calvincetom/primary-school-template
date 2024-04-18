@@ -1,0 +1,26 @@
+body {
+    background: #FCF5ED;
+}
+
+
+.dropdown-item {
+    color: white;
+}
+
+.dropdown-menu {
+    background: #191919;
+}
+
+#img {
+    object-fit: cover;
+    height: 60vh;
+}
+
+#staff {
+    object-fit: cover;
+    height: 40vh;
+}
+
+.btn {
+    border-radius: 0px;
+}
