@@ -1,5 +1,9 @@
 body {
     background: #FCF5ED;
+    font-family: 'TW Cen MT Std', sans-serif;
+}
+.nav-item {
+    font-size: large;
 }
 
 
@@ -23,4 +27,9 @@ body {
 
 .btn {
     border-radius: 0px;
+}
+
+#logo {
+    height: 10vh;
+    width: auto;
 }
